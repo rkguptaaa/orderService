@@ -11,4 +11,5 @@ phases:
 artifacts:
   files:
     - target/order-service.jar
+    - build/*
   discard-paths: yes
