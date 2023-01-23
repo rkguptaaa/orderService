@@ -8,9 +8,9 @@ phases:
   post_build:
     commands:
       - echo Build completed successfully
+      - ls -l
 artifacts:
   artifacts:
   files:
-    - ls -l
     - target/order-service.jar
   discard-paths: yes
