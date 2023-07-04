@@ -9,4 +9,3 @@ phases:
     commands:
       - echo Build completed successfully
  
-  discard-paths: yes
